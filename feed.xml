@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Velocity White Papers: Audio Summary</title>
+    <link>https://thevelocitywhitepapers.com</link>
+    <atom:link href="https://dbeauchemin.github.io/velocity-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>en-ca</language>
+    <description>A five-episode audio summary of The Velocity White Papers (Government of Alberta, Ministry of Technology and Innovation, June 2026, MIT licensed). Unofficial summary generated with AI voices.</description>
+    <itunes:author>Velocity Papers Summary</itunes:author>
+    <itunes:summary>Unofficial five-episode audio summary of the 21 Velocity White Papers.</itunes:summary>
+    <itunes:image href="https://dbeauchemin.github.io/velocity-podcast/cover.jpg"/>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Episode 1: Defining the problem</title>
+      <description>Papers 1 to 5: the two-billion-dollar Ship of Theseus, the cyber imperative, Git Insights, Git Insights Ministry, and the four approaches to AI modernization.</description>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:16:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://dbeauchemin.github.io/velocity-podcast/velocity-ep1.mp3" length="12065402" type="audio/mpeg"/>
+      <guid isPermaLink="false">velocity-white-papers-ep1</guid>
+      <pubDate>Thu, 08 Oct 2026 12:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Episode 2: The harness and the agent teams</title>
+      <description>Papers 6 and 7: the well-built harness, and the red, blue, green, and yellow agent teams.</description>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:17:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://dbeauchemin.github.io/velocity-podcast/velocity-ep2.mp3" length="12480760" type="audio/mpeg"/>
+      <guid isPermaLink="false">velocity-white-papers-ep2</guid>
+      <pubDate>Thu, 08 Oct 2026 12:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Episode 3: The AI Factory and the agentic stack</title>
+      <description>Papers 8 to 12: Pronghorn, Nexus, the Velocity Game Engine, the five-months-to-four-days case study, and the agentic technology stack.</description>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:18:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://dbeauchemin.github.io/velocity-podcast/velocity-ep3.mp3" length="13276350" type="audio/mpeg"/>
+      <guid isPermaLink="false">velocity-white-papers-ep3</guid>
+      <pubDate>Thu, 08 Oct 2026 12:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Episode 4: People and change management</title>
+      <description>Papers 13 to 16: the AI Academy, builder culture, the compression problem, and measuring failure and success.</description>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:16:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://dbeauchemin.github.io/velocity-podcast/velocity-ep4.mp3" length="11753195" type="audio/mpeg"/>
+      <guid isPermaLink="false">velocity-white-papers-ep4</guid>
+      <pubDate>Thu, 08 Oct 2026 12:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Episode 5: Technical appendix and the shape of data</title>
+      <description>Papers 17 to 21 and the appendices: anatomy of a template, the anti-drift harness, the canvas, Government 3.0, and the shape of data.</description>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:16:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://dbeauchemin.github.io/velocity-podcast/velocity-ep5.mp3" length="11750385" type="audio/mpeg"/>
+      <guid isPermaLink="false">velocity-white-papers-ep5</guid>
+      <pubDate>Thu, 08 Oct 2026 12:05:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
